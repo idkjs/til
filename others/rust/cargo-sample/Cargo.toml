@@ -1,7 +1,0 @@
-[package]
-name = "cargo-sample"
-version = "0.1.0"
-authors = ["mkanenobu <kaneda.1018@gmail.com>"]
-edition = "2018"
-
-[dependencies]

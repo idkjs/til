@@ -1,8 +1,0 @@
-test = """
-
-ls
-
-
-"""
-print(test)
-
